@@ -1,5 +1,5 @@
 # Tree-Intersection
-Get intersection of two trees (Test project for Regression Games)
+Get intersection of two trees
 
 
 Controls:
